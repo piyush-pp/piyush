@@ -5,12 +5,9 @@ A clean and nice web [portfolio][website] for designer or developer. That includ
 
 <img  alt="home" width="500px" src="assets/img/home.png" margin="5px" />
 <img  alt="about" width="500px" src="assets/img/about.png" margin="5px" />
-
 <img alt="skills" width="500px" src="assets/img/skills.png" margin="5px" />
 <img alt="contact" width="500px" src="assets/img/contact.png" margin="5px" />
-
 <img alt="footer" width="500px" src="assets/img/footer.png" margin="5px" />
-
 
 <br>
 <br>
